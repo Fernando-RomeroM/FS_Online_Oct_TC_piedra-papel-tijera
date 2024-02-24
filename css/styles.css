@@ -2,6 +2,9 @@ body {
   font-family: Arial, sans-serif;
   text-align: center;
   background-color: #f4f4f4;
+  height: 600px;
+  border-color: aqua;
+  border: 5px;
 }
 .boton-jugada {
   background-color: #3498db;
@@ -13,4 +16,8 @@ body {
 #resultados {
   font-size: 20px;
   margin: 20px 0;
+}
+
+#btnpiedra {
+  background-color: brown;
 }
